@@ -1,0 +1,19 @@
+{
+  "name": "generate-ai-content",
+  "version": "1.0.0",
+  "description": "Generate content from Cohere AI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Miguel Gutierrez",
+  "license": "ISC",
+  "dependencies": {
+    "cohere-ai": "5.0.2",
+    "commander": "10.0.0",
+    "dotenv": "^16.0.3",
+    "ora": "6.1.2"
+  }
+}
